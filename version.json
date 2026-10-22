@@ -1,8 +1,0 @@
-{
-  "version": "1.8",
-  "name": "Auto Read GGDrive v1.8",
-  "release_date": "2026-10-22",
-  "html_url": "https://github.com/saca127/autoreaddrive-releases/releases/latest",
-  "download_url": "https://github.com/saca127/autoreaddrive-releases/releases/latest/download/AutoReadDrive.exe",
-  "changelog": "Chọn ảnh mặt trước 4 cấp ưu tiên, ẩn nút Nạp QR, bổ sung google-genai/qrcode, sửa CI build"
-}
